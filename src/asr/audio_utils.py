@@ -8,6 +8,10 @@ def split_audio(audio_path, output_dir, chunk_duration=5000):
     output_dir = Path(output_dir)
     output_dir.mkdir(parents=True, exist_ok=True)
 
+    # Remove old generated chunks
+    for old_chunk in output_dir.glob("chunk_*.wav"):
+        old_chunk.unlink()
+
     chunks = []
 
     for start in range(0, len(audio), chunk_duration):

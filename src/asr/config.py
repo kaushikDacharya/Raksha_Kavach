@@ -1,0 +1,5 @@
+MODEL_NAME = "small"
+
+CHUNK_DURATION_MS = 5000
+
+CHUNK_OUTPUT_DIR = "temp_chunks"
