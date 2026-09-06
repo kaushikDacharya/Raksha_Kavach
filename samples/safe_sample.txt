@@ -1,0 +1,11 @@
+Agent: Good afternoon, thank you for calling HDFC Customer Support. My name is Rahul. How can I assist you today?
+Customer: Hi Rahul, I noticed a charge on my monthly statement from Amazon that I wanted to check.
+Agent: I can certainly help you review your recent statement. For your security, could you please confirm the last four digits of your registered account number? Please note we will never ask for your PIN, passwords, or OTP.
+Customer: Sure, the last four digits are 4821.
+Agent: Thank you. I can see the transaction from yesterday for 499 Rupees for your Amazon Prime subscription renewal.
+Customer: Ah, right! That was the annual subscription renewal. I had completely forgotten about it. Thank you for clarifying.
+Agent: You're welcome! Is there anything else I can help you with today?
+Customer: No, that was all. Have a great day!
+Agent: Thank you for calling HDFC. Goodbye!
+
+[END OF CALL]

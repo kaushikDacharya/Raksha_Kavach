@@ -1,0 +1,12 @@
+Caller: Hello, this is Officer Vikram Singh calling urgently from the SBI Cyber Security Cell.
+Customer: Hello? What is this regarding?
+Caller: Sir, your bank account and debit card have been compromised in an illegal international transaction. An immediate freeze request has been initiated.
+Customer: What?! I haven't done any illegal transaction!
+Caller: Do not panic, but you must act immediately. To stop the police complaint and unfreeze your funds, we need to verify your identity right now. I have just sent a 6-digit verification OTP to your mobile phone.
+Customer: But the SMS says "Do not share OTP with anyone, including bank staff"...
+Caller: Sir, that is for public. I am an authorized cyber officer. If you do not read out the 6-digit OTP within 60 seconds, your account will be permanently blocked and police action will be taken. Read the OTP now!
+Customer: Wait, let me visit my local branch first...
+Caller: You cannot contact anyone! The line is monitored. Give me the OTP or transfer 25,000 rupees security deposit to our government clearance UPI ID right now!
+Customer: No, this is a scam. I am hanging up!
+
+[CALL ENDED]
